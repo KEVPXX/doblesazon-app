@@ -1,6 +1,6 @@
-﻿{
+{
   "versionCode": 2,
   "versionName": "1.1.0",
-  "changelog": "• Envío de tickets por WhatsApp directo al cliente\n• Respaldo de ventas en Excel (.csv)\n• Guardado y control de mesas ampliado",
+  "changelog": "• Envio de tickets por WhatsApp directo al cliente\n• Respaldo de ventas en Excel (.csv)\n• Guardado y control de mesas ampliado",
   "apkUrl": "https://github.com/KEVPXX/doblesazon-app/releases/download/v1.1.0/DobleSazon.apk"
 }
