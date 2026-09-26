@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
-  "changelog": "• Envio de tickets por WhatsApp directo al cliente\n• Respaldo de ventas en Excel (.csv)\n• Guardado y control de mesas ampliado",
+  "versionCode": 3,
+  "versionName": "1.2.0",
+  "changelog": "• Pagos con Yape: QR dinamico con monto exacto automatico\n• WhatsApp con datos de pago Yape (917 129 707)\n• Optimizacion extrema para telefonos gama baja (1.7 MB, 60fps)",
   "apkUrl": "https://raw.githubusercontent.com/KEVPXX/doblesazon-app/main/DobleSazon.apk"
 }
