@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2.0",
-  "changelog": "• Pagos con Yape: QR dinamico con monto exacto automatico\n• WhatsApp con datos de pago Yape (917 129 707)\n• Optimizacion extrema para telefonos gama baja (1.7 MB, 60fps)",
+  "versionCode": 4,
+  "versionName": "1.3.0",
+  "changelog": "• QR Oficial de Yape con cobro directo\n• Detalle completo de la comanda en pantalla de cobro\n• Diseno limpio integrado con tema oscuro de Doble Sazon\n• Optimizacion de rendimiento para celulares gama baja",
   "apkUrl": "https://raw.githubusercontent.com/KEVPXX/doblesazon-app/main/DobleSazon.apk"
 }
