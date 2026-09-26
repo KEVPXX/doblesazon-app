@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3.0",
-  "changelog": "• QR Oficial de Yape con cobro directo\n• Detalle completo de la comanda en pantalla de cobro\n• Diseno limpio integrado con tema oscuro de Doble Sazon\n• Optimizacion de rendimiento para celulares gama baja",
+  "versionCode": 5,
+  "versionName": "1.4.0",
+  "changelog": "• Opcion para vaciar y liberar mesas abiertas por equivocacion (sin cobrar ni afectar ventas)\n• Accion rapida en la pantalla principal de mesas para anular mesa\n• Boton para vaciar pedido en la toma de comandas y en la cuenta",
   "apkUrl": "https://raw.githubusercontent.com/KEVPXX/doblesazon-app/main/DobleSazon.apk"
 }
