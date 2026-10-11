@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4.0",
-  "changelog": "• Opcion para vaciar y liberar mesas abiertas por equivocacion (sin cobrar ni afectar ventas)\n• Accion rapida en la pantalla principal de mesas para anular mesa\n• Boton para vaciar pedido en la toma de comandas y en la cuenta",
+  "versionCode": 6,
+  "versionName": "1.5.0",
+  "changelog": "• Nueva sección 'Menú' para gestionar todos los platos y bebidas\n• Cambio de precios fijos que se guardan permanentemente\n• Añadir nuevos productos con su precio y apartado correspondiente\n• Corrección del aviso repetido de actualización",
   "apkUrl": "https://raw.githubusercontent.com/KEVPXX/doblesazon-app/main/DobleSazon.apk"
 }
