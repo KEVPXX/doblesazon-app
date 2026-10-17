@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5.0",
-  "changelog": "• Nueva sección 'Menú' para gestionar todos los platos y bebidas\n• Cambio de precios fijos que se guardan permanentemente\n• Añadir nuevos productos con su precio y apartado correspondiente\n• Corrección del aviso repetido de actualización",
+  "versionCode": 7,
+  "versionName": "1.6.0",
+  "changelog": "• Actualización del código QR oficial a Plin (Kevin Andres Peña Juarez)\n• Datos y botón de cobro rápido con Plin integrados",
   "apkUrl": "https://raw.githubusercontent.com/KEVPXX/doblesazon-app/main/DobleSazon.apk"
 }
