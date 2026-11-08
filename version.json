@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7.0",
-  "changelog": "• Selector intercambiable de código QR (Yape / Plin)\n• El método seleccionado se guarda de forma fija para todos los cobros sin tener que elegirlo cada vez",
+  "versionCode": 9,
+  "versionName": "1.8.0",
+  "changelog": "• Ventana de cobro limpia y directa con QR y monto destacados\n• Selector de método de cobro fijo (Yape / Plin)",
   "apkUrl": "https://raw.githubusercontent.com/KEVPXX/doblesazon-app/main/DobleSazon.apk"
 }
