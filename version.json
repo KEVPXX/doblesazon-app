@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6.0",
-  "changelog": "• Actualización del código QR oficial a Plin (Kevin Andres Peña Juarez)\n• Datos y botón de cobro rápido con Plin integrados",
+  "versionCode": 8,
+  "versionName": "1.7.0",
+  "changelog": "• Selector intercambiable de código QR (Yape / Plin)\n• El método seleccionado se guarda de forma fija para todos los cobros sin tener que elegirlo cada vez",
   "apkUrl": "https://raw.githubusercontent.com/KEVPXX/doblesazon-app/main/DobleSazon.apk"
 }
